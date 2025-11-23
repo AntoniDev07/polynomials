@@ -1,0 +1,5 @@
+n = int(input())
+print("Największa liczba mnozen ", ((n * (n + 1)) // 2))
+print("Najmniejsza liczba mnozen ", (n))
+print("Największa liczba dodawan ", (n))
+print("Najmniejsza liczba dodawan ", (n))
